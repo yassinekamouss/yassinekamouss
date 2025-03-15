@@ -144,4 +144,7 @@
   <img src="https://streak-stats.demolab.com?user=yassinekamouss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+ ![](https://github-readme-stats.vercel.app/api?username=yassinekamouss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ ![](https://nirzak-streak-stats.vercel.app/?user=yassinekamouss&theme=dark&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinekamouss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
