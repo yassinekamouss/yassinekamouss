@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">👋 Hi! I’m Yassine Kamouss, a software engineering student specializing in Software and Intelligent Systems. Passionate about software development, algorithm optimization, and artificial intelligence, I constantly explore new technologies to create innovative solutions.<br><br>💻 I enjoy working on full-stack projects, using modern frameworks and robust architectures. My interest in intelligent systems drives me to deepen my knowledge in areas like machine learning, DevOps, and cloud applications.<br><br>🚀 Always curious and motivated, I share my discoveries and projects here. Feel free to explore my GitHub and connect with me!</p>
+<p align="left">I’m Yassine Kamouss, a software engineering student specializing in Software and Intelligent Systems. Passionate about software development, algorithm optimization, and artificial intelligence, I constantly explore new technologies to create innovative solutions.<br><br>💻 I enjoy working on full-stack projects, using modern frameworks and robust architectures. My interest in intelligent systems drives me to deepen my knowledge in areas like machine learning, DevOps, and cloud applications.<br><br>🚀 Always curious and motivated, I share my discoveries and projects here. Feel free to explore my GitHub and connect with me!</p>
 
 ###
 
