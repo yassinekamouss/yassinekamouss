@@ -140,11 +140,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinekamouss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=yassinekamouss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinekamouss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=yassinekamouss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
  ![](https://github-readme-stats.vercel.app/api?username=yassinekamouss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
  ![](https://nirzak-streak-stats.vercel.app/?user=yassinekamouss&theme=dark&hide_border=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinekamouss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
 ###
