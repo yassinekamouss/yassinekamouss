@@ -148,11 +148,17 @@
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinekamouss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <!-- Commented out code...
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinekamouss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=yassinekamouss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
- <img src="https://github-readme-stats.vercel.app/api?username=yassinekamouss&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>-->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=yassinekamouss&theme=dark&hide_border=false)](https://git.io/streak-stats)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinekamouss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api?username=yassinekamouss&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  -->
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=yassinekamouss&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinekamouss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
 </div>
 
 ###
