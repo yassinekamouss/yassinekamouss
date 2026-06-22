@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yassinekamouss/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=yassinekamouss&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
 
 ###
