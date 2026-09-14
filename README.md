@@ -119,9 +119,26 @@ Streaming recommendation system designed for low-latency personalization at scal
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinekamouss&layout=compact&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yassinekamouss&theme=tokyonight&hide_border=true" />
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Repositories per Language"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    alt="GitHub Statistics"
+  />
 </p>
