@@ -119,5 +119,9 @@ Streaming recommendation system designed for low-latency personalization at scal
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassinekamouss&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinekamouss&layout=compact&theme=tokyonight&hide_border=true&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yassinekamouss&theme=tokyonight&hide_border=true" />
 </p>
