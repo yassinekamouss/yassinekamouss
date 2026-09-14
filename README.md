@@ -121,8 +121,3 @@ Streaming recommendation system designed for low-latency personalization at scal
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassinekamouss&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yassinekamouss&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yassinekamouss&theme=tokyonight" />
-</p>
