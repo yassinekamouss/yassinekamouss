@@ -119,7 +119,7 @@ Streaming recommendation system designed for low-latency personalization at scal
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinekamouss&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-two-phi-93.vercel.app/api/top-langs/?username=yassinekamouss&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
