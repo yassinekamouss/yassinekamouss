@@ -8,7 +8,7 @@
    ██║   ██║  ██║███████║███████║██║██║ ╚████║███████╗    ██║  ██╗██║  ██║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝███████║███████║
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
 ```
-### Cloud & Platform Engineer | DevOps | MLOps
+### Cloud & Platform Engineer | DevOps
 
 *Building scalable cloud platforms and production-ready AI systems.*
 
