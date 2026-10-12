@@ -10,9 +10,9 @@
 ```
 ### Cloud & Platform Engineer | DevOps
 
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=700&lines=Building+scalable+cloud+platforms+on+Kubernetes;Git-driven+everything+%E2%80%94+Terraform+%2B+ArgoCD;Observability-first%3A+Prometheus+%2B+Grafana+%2B+OTel;Decoupling+compute+from+storage+to+cut+costs" alt="Typing SVG" />
- </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+scalable+cloud+platforms+on+Kubernetes;Git-driven+everything+%E2%80%94+Terraform+%2B+ArgoCD;Observability-first%3A+Prometheus+%2B+Grafana+%2B+OTel;Decoupling+compute+from+storage+to+cut+costs" alt="Typing SVG" />
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-kamouss-a69599331/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YKamouss17826)
