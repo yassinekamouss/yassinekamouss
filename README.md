@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
 </pre>
 
-<h2>Cloud & Platform Engineer | DevOps</h2>
+<h2>Cloud & DevOps Engineer</h2>
 
 <p>
   <em>Architecting resilient cloud platforms, automated GitOps pipelines & observable distributed systems</em>
